@@ -1407,7 +1407,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, .7)!important;
+    background: ;
     border-radius: 0!important;
     border: none!important
 }
@@ -1826,8 +1826,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .theme-dark .note-3kmerW textarea:focus {
-    background-color: var(--NTBackgroundColor01);
-    border: 1px solid rgba(0, 0, 0, .5);
+    background-color: ;
+    border: 1px ;
     overflow: hidden
 }
 
@@ -2003,7 +2003,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .theme-dark .item-1GzJrl:hover {
-    background-color: rgba(0, 0, 0, .3);
+    background-color: ;
     color: #fff;
     border-left: 4px solid var(--PrimaryColor01)
 }
@@ -2014,8 +2014,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .inner-zqa7da {
-    background-color: rgba(0, 0, 0, .7)!important;
-    width: 99%
+    background-color: ;
+    width: 
 }
 
 .chat-3bRxxu form {
@@ -2025,7 +2025,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .channelTextArea-rNsIhG {
-    border: none!important;
+    border: ;
     padding: 5px!important;
     margin: 0!important
 }
@@ -2047,7 +2047,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .guildInner-3DSoA4 a svg, .guildInner-3DSoA4[style*=background-color] {
-    background-color: 0 0!important
+    background-color:   0 0!important
 }
 
 .title-3qD0b- {
