@@ -1826,8 +1826,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .theme-dark .note-3kmerW textarea:focus {
-    background-color: var()!important;
-    border: 1px solid rgba(0, 0, 0, .5);
+    background-color: var(--NTBackgroundColor01);
+    border: 1px transparent;
     overflow: hidden
 }
 
@@ -2047,7 +2047,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .guildInner-3DSoA4 a svg, .guildInner-3DSoA4[style*=background-color] {
-    background-color: 0 0!important
+    background-color:   0 0!important
 }
 
 .title-3qD0b- {
