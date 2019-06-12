@@ -1826,8 +1826,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .theme-dark .note-3kmerW textarea:focus {
-    background-color: transparent;
-    border: 1px transparent;
+    background-color: ;
+    border: 1px ;
     overflow: hidden
 }
 
@@ -2025,7 +2025,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .channelTextArea-rNsIhG {
-    border: none!important;
+    border: transparent;
     padding: 5px!important;
     margin: 0!important
 }
