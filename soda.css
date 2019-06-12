@@ -1826,7 +1826,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .theme-dark .note-3kmerW textarea:focus {
-    background-color: var(--NTBackgroundColor01);
+    background-color: transparent;
     border: 1px transparent;
     overflow: hidden
 }
