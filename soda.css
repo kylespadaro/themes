@@ -31,8 +31,8 @@
     --WarningColor02: #cc9900;
     --SuccesColor02: #1e7b34;
     --InfoColor02: #117888;
-    --DefaultColor: #6c757d;
-    --DefaultColor02: #5a6268;
+    --DefaultColor: #ffffff;
+    --DefaultColor02: #ffffff;
     --ChatTextColor: hsla(0, 100%, 100%, 1);
     --RoleTitleColor: hsla(0, 100%, 100%, .95);
     --UserPlayingTextColor: hsla(0, 100%, 100%, .6);
@@ -2012,7 +2012,10 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
     color: var(--DangerColor);
     border-left: 4px solid var(--DangerColor)
 }
-  
+
+.inner-zqa7da {
+    background-color: ;
+    width: 
 }
 
 .chat-3bRxxu form {
@@ -2028,7 +2031,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 ::-webkit-input-placeholder, body:not([class*=hljs]):not(code):not([class*=ace_]) {
-    font-family: var(--customFont)!important
+    font-family: var(--customFont)!importan
 }
 
 .ace_editor {
